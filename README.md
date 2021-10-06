@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Torres</h1>
 <h3 align="center">A Industrial Enginner from Colombia</h3>
 
-- 🔭 I’m currently working on [digitalsake LLC](www.digitalsake.com)
+- 🔭 I’m currently working on [digitalsake LLC](https://digitalsake.com/)
 
 - 🌱 I’m currently learning **Java and Linux**
 
